@@ -1,0 +1,19 @@
+.modal-body {
+  /* background-color: #265e9e; */
+}
+.modal-body {
+  word-wrap: break-word;
+}
+.modal-dialog {
+  max-width: 50%;
+}
+.order-info p {
+  margin: 0 0 10px 0;
+}
+.order-info input {
+  margin: 0 0 10px 0;
+}
+.order-info p:last-child {
+  font-family: Playfair;
+  font-size: 20px;
+}
